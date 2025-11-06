@@ -1,0 +1,25 @@
+body
+{
+    background-color: chocolate;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor
+{
+    background-color:aquamarine;
+    color: black;
+    text-align: center;
+    width: 260px;
+}
+button
+{
+    background-color: blueviolet;
+    color: rgb(82, 20, 141);
+}
+button:hover
+{
+    background-color: cadetblue;
+    color: cornflowerblue;
+}
